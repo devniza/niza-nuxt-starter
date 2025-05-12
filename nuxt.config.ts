@@ -10,7 +10,13 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/eslint',
     '@nuxt/fonts',
-    '@nuxt/icon'
+    '@nuxt/icon',
+    '@nuxt/scripts',
+    '@vueuse/nuxt',
+    'nuxt-security',
+    '@nuxtjs/seo',
+    'nuxt-zod-i18n',
+    '@nuxtjs/i18n'
   ],
 
 

@@ -13,7 +13,6 @@
     <div v-if="getNames.length === 0" class="text-center text-gray-500 p-4">
       No names available
     </div>
-    <!-- Add a single form to add names -->
     <input
       v-model="newName"
       type="text"
