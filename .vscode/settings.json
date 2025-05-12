@@ -1,13 +1,16 @@
 {
   "files.exclude": {
-    "**/.devbox": false,
-    "**/.fleet/": false,
-    "**/.idea/": false,
-    "**/Cargo.lock": false,
-    "**/devbox.lock": false,
-    "**/LICENSE*": false,
-    "**/target/": false,
-    ".nuxt": false,
-    "node_modules": false
+    "**/.devbox": true,
+    "**/.fleet/": true,
+    "**/.idea/": true,
+    "**/Cargo.lock": true,
+    "**/devbox.lock": true,
+    "**/LICENSE*": true,
+    "**/target/": true,
+    ".nuxt": true,
+    "node_modules": true,
+    "server\\tsconfig.json": true,
+    "tsconfig.json": true,
+    "pnpm-lock.yaml": true
   }
 }

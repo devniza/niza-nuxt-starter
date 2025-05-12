@@ -16,7 +16,9 @@ export default defineNuxtConfig({
     'nuxt-security',
     '@nuxtjs/seo',
     'nuxt-zod-i18n',
-    '@nuxtjs/i18n'
+    '@nuxtjs/i18n',
+    '@nuxt/test-utils/module',
+    'nuxt-typed-router'
   ],
 
 

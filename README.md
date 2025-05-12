@@ -18,6 +18,8 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 - [NuxtSEO](https://nuxtseo.com/docs/nuxt-seo/getting-started/introduction) - Has Robots, Sitemap, OG Image, Schema.org, Link Checker, SEO Utils
 - [Nuxt zodI18n](https://xibman-nuxt-zod-i18n.nuxt.space/getting-started)
 - [Nuxt I18n](https://i18n.nuxtjs.org/docs/getting-started)
+- [Nuxt TestUtils](https://nuxt.com/modules/test-utils) - with playwrite-core, happy-dom, vitest
+- [NuxtTypedRouter](https://nuxt.com/modules/typed-router) - with zod and I18n
 
 ## Setup
 
