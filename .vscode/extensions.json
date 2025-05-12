@@ -11,6 +11,10 @@
         "zignd.html-css-class-completion",
         "nuxtr.nuxt-vscode-extentions",
         "yoavbls.pretty-ts-errors",
-        "ahgood.shift-shift"
+        "ahgood.shift-shift",
+        "bradlc.vscode-tailwindcss",
+        "jduncan017.tailwind-fold-with-class-names",
+        "znck.vue",
+        "vue.volar"
     ]
 }
