@@ -1,7 +1,9 @@
 # Niza's Nuxt Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
 # Tools
+
 - [TypeScript](https://www.typescriptlang.org/)
 - [Pinia](https://pinia.vuejs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)

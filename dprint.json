@@ -1,0 +1,48 @@
+{
+  "typescript": {},
+  "json": {},
+  "markdown": {},
+  "toml": {},
+  "malva": {},
+  "markup": {
+    "singleAttrSameLine": true,
+    "printWidth": 80,
+    "vue.scriptIndent": false,
+    "vue.styleIndent": false,
+    "preferAttrsSingleLine": true,
+    "vBindStyle": "short",
+    "vOnStyle": "short",
+    "html.normal.selfClosing": true,
+    "html.void.selfClosing": false,
+    "component.selfClosing": true,
+    "vForDelimiterStyle": "in",
+    "vSlotStyle": "vSlot",
+    "component.vSlotStyle": "vSlot",
+    "vBindSameNameShortHand": true
+  },
+  "yaml": {},
+  "excludes": [
+    "**/node_modules",
+    "**/*-lock.json",
+    "**/.nuxt",
+    "**/.output",
+    "**/dist",
+    "**/vscode/**",
+    "**/nuxt.config.ts",
+    "**/package.json",
+    "**/package-lock.json",
+    "**/pnpm-lock.yaml",
+    "**/eslint.config.mjs",
+    "**/tsconfig.json",
+    "**/tsconfig.*.json"
+  ],
+  "plugins": [
+    "https://plugins.dprint.dev/typescript-0.95.1.wasm",
+    "https://plugins.dprint.dev/json-0.20.0.wasm",
+    "https://plugins.dprint.dev/markdown-0.18.0.wasm",
+    "https://plugins.dprint.dev/toml-0.7.0.wasm",
+    "https://plugins.dprint.dev/g-plane/malva-v0.12.1.wasm",
+    "https://plugins.dprint.dev/g-plane/markup_fmt-v0.20.0.wasm",
+    "https://plugins.dprint.dev/g-plane/pretty_yaml-v0.5.1.wasm"
+  ]
+}
