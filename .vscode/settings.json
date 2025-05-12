@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.devbox": false,
+        "**/.fleet/": false,
+        "**/.idea/": false,
+        "**/Cargo.lock": false,
+        "**/devbox.lock": false,
+        "**/LICENSE*": false,
+        "**/target/": false,
+        ".nuxt": false,
+        "node_modules": false
+    }
+}
