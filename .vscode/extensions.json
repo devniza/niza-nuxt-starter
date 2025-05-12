@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "fooxly.workspace",
+        "nuxt.mdc",
+        "vmsynkov.colonize",
+        "mikestead.dotenv",
+        "dbaeumer.vscode-eslint",
+        "gplane.dprint2",
+        "antfu.goto-alias",
+        "visualstudioexptteam.vscodeintellicode",
+        "zignd.html-css-class-completion",
+        "nuxtr.nuxt-vscode-extentions",
+        "yoavbls.pretty-ts-errors",
+        "ahgood.shift-shift"
+    ]
+}
